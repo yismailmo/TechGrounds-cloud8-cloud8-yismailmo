@@ -1,8 +1,12 @@
-# [Subject]
-[Give a short summary of the subject matter.]
+# Connecting to a machine using ssh
+# Key terminology
+cd is changing directory 
+ls list iems in a directory
+cd .. to go back to home directory
 
-## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excersizes.]
+SSH
+chmod 400
+
 
 ## Exercise
 ### Sources
