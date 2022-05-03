@@ -10,6 +10,7 @@
 
 ### Overcome challanges
 [Give a short description of your challanges you encountered, and how you solved them.]
+Finding how to link an image into a page and finally learned from my team mambers that I can use ![comment](put the remote file url).
 
 ### Results
 [Here is  an SSH-connection to my machine. So SSH requires the key file to have specific permissions.
