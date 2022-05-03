@@ -3,7 +3,8 @@
 
 ## Key terminology
 [Write a list of key terminology with a short description. To prevent duplication you can reference to previous excersizes.]
-
+Git 
+is a version control system which lets you track changes you make to your files over time. With Git, you can revert to various states of your files.
 ## Exercise
 ### Sources
 [List your sources you used for solving the exercise]
