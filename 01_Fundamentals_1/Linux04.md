@@ -1,24 +1,36 @@
-# Connecting to a machine using ssh
+# Users and groups
+Users and groups
+introduction:
+linux has users, similar to accounts on windows and macos. every user has their own home directory. users can also be part of groups.
+there is a special user called ‘root’. Root is allowed to do anything.
+To gain temporary root permissions, you can type ‘sudo’ in front of a command, but that only works if you’re allowed to do that.
+
+Some actions require (root) permissions.
+
+Users, passwords, and groups are all stored in  (different) files across the system.
+
 # Key terminology
-cd is changing directory 
 
-ls list iems in a directory
 
-cd .. to go back to home directory
 
-SSH
+Requirements:
+Your Linux machine
+Exercise:
+Create a new user in your VM. 
 
-chmod 400
+
+The new user should be part of an admin group.
+The new user should have a password.
+The new user should be able to use ‘sudo’
+Locate the files that store users, passwords, and groups. See if you can find your newly created user’s data in there.
+
+
 ### Sources
 [List your sources you used for solving the exercise]
 
 ### Overcome challanges
-[Give a short description of your challanges you encountered, and how you solved them.]
-Finding how to link an image into a page and finally learned from my team mambers that I can use ![comment](put the remote file url). Since i didn't finish the Git02 markdown assignment, but once I did the Git markdown assignment everything made sense.
+
 
 ### Results
-[Here is  an SSH-connection to my machine. So SSH requires the key file to have specific permissions.
-When the connection was successful, I typed whoami in the terminal. This following command  showed my username.]
 
-![screenshot of powershell](https://github.com/yismailmo/TechGrounds-cloud8-cloud8-yismailmo/blob/main/00_includes/Linux01%20user-login.png)
 
